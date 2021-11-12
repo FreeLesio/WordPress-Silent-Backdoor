@@ -60,10 +60,6 @@ function Ghost_Plugin() {
 	}
 }
 
-function Disable_Plugin_Counter() {
-	echo(base64_decode('PHNjcmlwdD4oZnVuY3Rpb24oJCl7JChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKXskKCcud3JhcCBzcGFuLmNvdW50JykuaGlkZSgpO30pO30pKGpRdWVyeSk7PC9zY3JpcHQ+'));
-}
-
 // The creator of this code is also a web developer. Maybe he can do something for your ugly website.
 // Contact me at lesio@tutanota.com
 ?>
