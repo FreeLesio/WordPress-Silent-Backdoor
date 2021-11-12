@@ -6,7 +6,7 @@
 // Plugin Name: Norton™ Security - WordPress Total Protection
 // Plugin URI: https://www.norton.com/
 // Description: Stop hackers from exploiting your business data, thanks to our solution for unmatched threat detection.
-// Author: Norton™, Emilio "LESiO" Savoie
+// Author: Norton™, Gary Hendrix
 // Version: 4.3.5
 // Author URI: https://www.norton.com/
 
